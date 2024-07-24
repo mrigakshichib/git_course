@@ -2,3 +2,5 @@ i am a fix file in bug fix
 made another change here
 
 one more bug detected and fixed
+fourth bug fixed
+fifth bug fixed
